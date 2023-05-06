@@ -25,5 +25,7 @@ int main()
     }
     g << nr;
     //for (i = 1;i <= n; i++) cout << b[i];
+    close(f);
+    close(g);
     return 0;
 }

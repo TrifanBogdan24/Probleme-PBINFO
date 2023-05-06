@@ -7,8 +7,8 @@ ofstream g("easyquery.out");
 long long n, T, t, x, y, p, i, j, k, a[100005], b[100003];
 
 int main()
-{ 
-    f>>n;
+{
+    f >> n;
     for (i = 1; i <= n; i++)
         f >> a[i];
     

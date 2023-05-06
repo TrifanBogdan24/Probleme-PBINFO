@@ -7,7 +7,7 @@ int main()
 {
     cin >> n >> m;
     while (n)
-    {   
+    {
         c = n % 10;
         if (c != 0 && m % c== 0)
             nr++;

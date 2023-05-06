@@ -2,8 +2,8 @@
 #include <iostream>
 
 using namespace std;
-int I,M;
-long long  a,b,c,d,D,nr1m,nr2m,nr1i,nr2i,q1,q2;
+int I, M;
+long long a, b, c, d, D, nr1m, nr2m, nr1i, nr2i, q1, q2;
 
 int main()
 {

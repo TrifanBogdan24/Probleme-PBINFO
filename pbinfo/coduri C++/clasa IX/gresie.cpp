@@ -14,7 +14,7 @@ int main()
         else
             cout << (n / l + 1) * (m / l);
     } else
-    {
+    { 
         if (m % l)
             cout << (n / l) * (m / l + 1);
         else 

@@ -1,5 +1,5 @@
 // #2012 - Canguri
-include <iostream>
+#include <iostream>
 #include <fstream>
 using namespace std;
 fstream f("canguri.in");
