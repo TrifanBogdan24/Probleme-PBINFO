@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-long a,b,c,n;
+long a, b, c, n;
 
 int main()
 {
