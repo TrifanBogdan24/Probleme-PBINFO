@@ -43,7 +43,7 @@ int main()
             NR++;
     }
     g << NR;
-    close(f);
-    close(g);
+    f.close();
+    g.close();
     return 0;
 }

@@ -4,16 +4,17 @@
 using namespace std;
 long long n;
 
-long long pp(long long n)
+long long patrat_perfect(long long n)
 {
-    long long d;
-    for (d = 2; d * d <= n; d++)
-        if (n % d == 0) return d*d;
+    for (long long div = 2; div * div <= n; div++)
+        if (n % div == 0) return (div * div);
+
+    return -1;
 }
 
 int main()
 {
     cin >> n;
-    cout << pp(n);
+    cout << patrat_perfect(n);
     return 0;
 }
