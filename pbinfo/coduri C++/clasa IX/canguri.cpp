@@ -25,7 +25,7 @@ int main()
     {
         g << c2.nr << '\n';
         x = c2.l;
-    } else if(c3.l > max(c1.l,c2.l))
+    } else if (c3.l > max(c1.l,c2.l))
     {
         g << c3.nr<<'\n';
         x = c3.l;
