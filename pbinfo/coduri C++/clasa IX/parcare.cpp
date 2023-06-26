@@ -4,7 +4,6 @@
 using namespace std;
 fstream f("parcare.in");
 ofstream g("parcare.out");
-int data[2][4], t, p, diferenta_de_timp;
 
 int interval_to_seconds(int data_one[4], int data_two[4])
 {
@@ -34,6 +33,7 @@ int interval_to_seconds(int data_one[4], int data_two[4])
 
 int main()
 {
+    int data[2][4], t = 0, p = 0, diferenta_de_timp = 0;
     f >> data[0][0] >> data[0][1] >> data[0][2] >> data[0][3];  // ziua, luna, ora, minutul
     f >> data[1][0] >> data[1][1] >> data[1][2] >> data[1][3];  // ziua, luna, ora, minutul
     diferenta_de_timp = interval_to_seconds(data[0], data[1]);

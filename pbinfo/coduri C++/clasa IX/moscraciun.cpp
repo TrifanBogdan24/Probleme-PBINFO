@@ -2,7 +2,8 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
-long long x ,maxx;
+
+long long x, maxx;
 int n, i, nr;
 
 int main()

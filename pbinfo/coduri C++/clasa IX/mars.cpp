@@ -1,6 +1,7 @@
 // #1512 - Mars
 #include <iostream>
 using namespace std;
+
 int n, m, st, dr, x, i;
 long long v[500000];
 
