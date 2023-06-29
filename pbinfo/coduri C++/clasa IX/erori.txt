@@ -1,0 +1,4 @@
+sum00.cpp: In function ‘int main()’:
+sum00.cpp:12:13: error: ‘sum’ was not declared in this scope
+   12 |     cout << sum << '\n';
+      |             ^~~

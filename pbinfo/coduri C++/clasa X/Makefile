@@ -2,6 +2,6 @@ coding-style:
 	cd ../'coding style' ; ./cs.sh ../; cd ../'clasa IX'
 
 last:
-	echo "STATUS : all done to this directory"
+	echo "STATUS : am ramas la dublare1.cpp"
 
 status: last
