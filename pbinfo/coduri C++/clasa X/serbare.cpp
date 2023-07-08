@@ -24,7 +24,7 @@ int main()
         v[a[i].nr2] = v[a[i].nr2] + a[i].nr1;
         v1[i] = i;
     }
-    
+
     for (int i = 1; i < p; i++)
     {
         for (int j = i + 1; j <= p; j++)
@@ -34,12 +34,9 @@ int main()
                 swap(v1[i], v1[j]);
             }
     }
-
+    
     for (int i = 1; i <= p; i++)
         g << v1[i] << " ";
 
-    g << '\n';
-    f.close();
-    g.close();
     return 0;
 }

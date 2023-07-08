@@ -14,7 +14,6 @@ struct Student {
 };
 Student A[105];
 
-
 void Read()
 {
     cin >> N >> P;
@@ -29,7 +28,6 @@ void Read()
     mt = (long double)mt / aux;
     return;
 }
-
 void Task1()
 {
     int ans = 0;
@@ -41,36 +39,41 @@ void Task1()
         long double Y = mt;
         Y = Y * (long double)(1000.0000000);
         int cY = Y;
+    
         if (cX - cY >= 0)
             ++ans;
     }
     cout << ans << '\n';
 }
-
 void Write()
 {
     cout << setprecision(2) << fixed;
     cout << mt << '\n';
+
     for (int i = 1; i <= N; ++i)
         cout << (A[i].FN + 1) << ' ' << (A[i].SN + 1) << ' ' << A[i].mg << '\n';
-    return;
 }
 
 void Task2()
 {
     for (int i = 1; i < N; ++i)
+    {
         for (int j = i + 1; j <= N; ++j)
         {
             if (A[i].mg > A[j].mg)
                 continue;
+    
             if (A[i].mg == A[j].mg && strcmp(A[i].FN + 1, A[j].FN + 1) < 0)
                 continue;
+    
             if (A[i].mg == A[j].mg && strcmp(A[i].FN + 1, A[j].FN + 1) == 0 && strcmp(A[i].SN + 1, A[j].SN + 1) < 0)
                 continue;
+    
             swap(A[i], A[j]);
         }
+    }
+
     Write();
-    return;
 }
 
 int main()

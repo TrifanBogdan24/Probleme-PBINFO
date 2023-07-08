@@ -1,4 +1,5 @@
 // #76 - FUltimaCifraPara
+
 #include <iostream>
 
 using namespace std;
@@ -31,7 +32,11 @@ int UCP(int n)
 int main()
 {
     int n = 0;
+
+    cout << "n = ";
     cin >> n;
+
     cout << UCP(n) << '\n';
+
     return 0;
 }

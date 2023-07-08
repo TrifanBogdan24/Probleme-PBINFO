@@ -1,4 +1,5 @@
 // #70 - FMultiplu
+
 #include <iostream>
 
 using namespace std;
@@ -8,6 +9,7 @@ using namespace std;
 int multipli(int a, int b, int c)
 {
     int i, nr = 0, q, j;
+    
     if (a % c != 0)
     {
         q = a % c;
@@ -17,6 +19,7 @@ int multipli(int a, int b, int c)
     else
         i = a;
 
+    
     if (b % c == 0)
         j = b;
     else
@@ -24,6 +27,7 @@ int multipli(int a, int b, int c)
         q = b % c;
         j = b - q;
     }
+    
     nr = (j - i) / c + 1;
     return nr;
 }
@@ -34,7 +38,16 @@ int main()
 {
     int a = 0, b = 0, c = 0;
 
-    cin >> a >> b >> c;
+    cout << "a = ";
+    cin >> a;
+
+    cout << "b = ";
+    cin >> b;
+
+    cout << "c = ";
+    cin >> c;
+
     cout << multipli(a, b, c) << '\n';
+    
     return 0;
 }

@@ -1,4 +1,5 @@
 // #3104 - B_Egal
+
 #include <iostream>
 
 using namespace std;
@@ -35,7 +36,11 @@ int Egal(int n)
 int main()
 {
     int n = 0;
+
+    cout << "n = ";
     cin >> n;
+
     cout << Egal(n) << '\n';
+
     return 0;
 }

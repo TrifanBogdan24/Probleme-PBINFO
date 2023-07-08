@@ -1,7 +1,6 @@
 // #2004 - ore
 #include <iostream>
 #include <fstream>
-
 using namespace std;
 
 ifstream f("ore.in");
@@ -12,7 +11,7 @@ struct ore {
 };
 ore v[100];
 
-int nr1 = 0, nr2 = 0, h1, m1, s1;
+int nr1 = 0, nr2 = 0, i, j, h1, m1, s1;
 
 int main()
 {
@@ -21,13 +20,13 @@ int main()
         f >> v[i].h >> v[i].m >> v[i].s;
         g << v[i].h << ": " << v[i].m << ": " << v[i].s << endl;
     }
-    
+
     nr1 = v[1].h * 3600 + v[1].m * 60 + v[1].s;
     nr2 = v[2].h * 3600 + v[2].m * 60 + v[2].s;
     
     g << nr1 << '\n' << nr2 << '\n';
     s1 = v[1].s + v[2].s;
-    
+
     if (s1 > 60)
     {
         s1 = s1 - 60;
@@ -35,7 +34,6 @@ int main()
     }
     
     m1 = m1 + v[1].m + v[2].m;
-    
     if (m1 > 60)
     {
         m1 = m1 - 60;
@@ -45,7 +43,10 @@ int main()
     h1 = h1 + v[1].h + v[2].h;
     g << h1 << ": " << m1 << ": " << s1;
 
+    g << '\n';
     f.close();
     g.close();
+
     return 0;
 }
+

@@ -1,18 +1,13 @@
 // #923 - FractiiMax
 #include <iostream>
-#include <fstream>
 
 using namespace std;
 
-ifstream f("ore.in");
-ofstream g("ore.out");
-
-int a, b, c, d, x, i;
+int a, b, c, d, x;
 float x1, x2;
 
 int main()
 {
-    
     cin >> a >> b >> c >> d;
     x1 = a / b;
     x2 = c / d;
@@ -22,7 +17,7 @@ int main()
         swap(a, c);
         swap(b, d);
     }
-
+    
     if (a > b)
         x = b;
     else
@@ -36,7 +31,7 @@ int main()
             b = b / i;
         }
     }
-
+    
     cout << a << " " << b << '\n';
     return 0;
 }

@@ -4,6 +4,7 @@
 #include <cctype>
 
 using namespace std;
+
 char a[255], sep[2] = " ", *p, v[100][10], vN[100][10];
 int nr, NR, OK = 1;
 

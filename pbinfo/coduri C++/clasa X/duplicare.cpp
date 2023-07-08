@@ -1,4 +1,5 @@
 // #2805 - Duplicare
+
 #include <iostream>
 
 using namespace std;
@@ -8,7 +9,7 @@ using namespace std;
 void duplicare(int &n)
 {
     int a[11] = {0}, nr = 0;
-    
+
     while (n != 0)
     {
         nr++;
@@ -28,10 +29,15 @@ void duplicare(int &n)
 }
 
 // SOLUTIA PBINFO SE TERMINA AICI
+
 int main()
 {
     int n = 0;
+    cout << "n = ";
     cin >> n;
-    cout << n << '\n';
+
+    duplicare(n);
+    cout << "noul n = " << n << '\n';
+
     return 0;
 }

@@ -1,17 +1,16 @@
 // #904 - Concat
+
 #include <iostream>
 
 using namespace std;
 
 // SOLUTIA PBINFO INCEPE AICI
 
-int a, b;
-
 int concat(int a, int b)
 {
-    int cp = 1;
-    int c = b;
-
+    int c, p = 1;
+    c = b;
+    
     while (c != 0)
     {
         p = p * 10;
@@ -25,7 +24,15 @@ int concat(int a, int b)
 
 int main()
 {
-    cin >> a >> b;
+    int a = 0, b = 0;
+
+    cout << "a = ";
+    cin >> a;
+
+    cout << "b = ";
+    cin >> b;
+
     cout << concat(a, b) << '\n';
+
     return 0;
 }

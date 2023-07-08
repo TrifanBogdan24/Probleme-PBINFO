@@ -1,21 +1,22 @@
 // #906 - SumaCifre
+
 #include <iostream>
 
 using namespace std;
 
 // SOLUTIA PBINFO INCEPE AICI
 
-void sumcif(int n, int &s_pare, int &s_impare)
+void sumcif(int n, int &s, int &t)
 {
-    s_pare = 0;
-    s_impare = 0;
-    
+    s = 0;      // suma cifrelor pare
+    t = 0;      // suma cifrelor impare
+
     while (n != 0)
     {
         if (n % 2 == 0)
-            s_pare = s_pare + n % 10;
+            s = s + n % 10;
         else
-            s_impare = s_impare + n % 10;
+            t = t + n % 10;
         
         n = n / 10;
     }
@@ -25,12 +26,15 @@ void sumcif(int n, int &s_pare, int &s_impare)
 
 int main()
 {
-    int n = 0, scif_pare = 0, scif_impare = 0;
+    int n = 0, s_cif_pare = 0, s_cif_impare = 0;
 
+    cout << "n = ";
     cin >> n;
-    sumcif(n, scif_pare, scif_impare);
-    cout << "Suma cifrelor pare = " << scif_pare << '\n';
-    cout << "Suma cifrelor impare = " << scif_impare << '\n';
+
+    sumcif(n, s_cif_pare, s_cif_impare);
+
+    cout << "Suma cifrelor pare ale lui " << n << " = " << s_cif_pare << '\n';
+    cout << "Suma cifrelor impare ale lui " << n << " = " << s_cif_impare << '\n';
 
     return 0;
 }

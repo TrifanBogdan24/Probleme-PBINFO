@@ -1,0 +1,987 @@
+/usr/bin/ld: /tmp/ccYbisp9.o:(.bss+0x8): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccYbisp9.o: in function `main':
+acronim.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x424): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x428): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x42c): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o:(.bss+0x4d8): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cciiqqAa.o: in function `main':
+afisarelitere.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccsmBqt9.o: in function `afis()':
+afisarerec.cpp:(.text+0x0): multiple definition of `afis()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x37c): first defined here
+/usr/bin/ld: /tmp/ccsmBqt9.o: in function `main':
+afisarerec.cpp:(.text+0x76): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccv5RDYa.o: in function `main':
+afisarevectorrec1.cpp:(.text+0x78): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccfHxN18.o: in function `afisvec(int*, int)':
+afisarevectorrec.cpp:(.text+0x0): multiple definition of `afisvec(int*, int)'; /tmp/ccv5RDYa.o:afisarevectorrec1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccfHxN18.o: in function `main':
+afisarevectorrec.cpp:(.text+0x78): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x428): multiple definition of `xi'; /tmp/cc0rLOE8.o:(.bss+0x434ed0): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x42c): multiple definition of `yi'; /tmp/cc0rLOE8.o:(.bss+0x434ed4): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.data+0x10): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o:(.bss+0x1fe80): multiple definition of `Q'; /tmp/cc0rLOE8.o:(.bss+0x434ee0): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o: in function `citire()':
+alee.cpp:(.text+0x0): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccmwAex8.o: in function `main':
+alee.cpp:(.text+0x449): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccetWLA8.o: in function `main':
+anagrame.cpp:(.text+0x195): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc01aFv7.o: in function `main':
+apartenenta.cpp:(.text+0xf8): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5BTN39.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc5BTN39.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc5BTN39.o: in function `main':
+atbash.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc1Rrtd8.o: in function `main':
+b16.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o:(.bss+0x0): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o:(.bss+0x100): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o:(.bss+0x120): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o:(.bss+0x908): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o:(.bss+0x90c): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccFA8U17.o: in function `main':
+bac_cuvinte.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc7QVXZ8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc7QVXZ8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc7QVXZ8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc7QVXZ8.o:(.bss+0xf4690): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cc7QVXZ8.o: in function `main':
+betisoare.cpp:(.text+0x1af): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc2duMW6.o:(.bss+0x0): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cc2duMW6.o:(.bss+0x200): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cc2duMW6.o:(.bss+0x208): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc2duMW6.o: in function `main':
+caractere.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccbdSo17.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccbdSo17.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccbdSo17.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccbdSo17.o:(.bss+0x3d4e0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccbdSo17.o: in function `citire()':
+caroiaj.cpp:(.text+0x24b): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccbdSo17.o: in function `main':
+caroiaj.cpp:(.text+0x484): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x428): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x42c): multiple definition of `j'; /tmp/cc0rLOE8.o:(.bss+0x42c): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x434): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0x3daa00): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.data+0x10): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0xb8f580): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o:(.bss+0xb8f980): multiple definition of `Q'; /tmp/cc0rLOE8.o:(.bss+0x434ee0): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o: in function `citire()':
+castel2.cpp:(.text+0x0): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccVVk877.o: in function `main':
+castel2.cpp:(.text+0x74b): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccU78Bwa.o: in function `main':
+cautarebinara.cpp:(.text+0x9c): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccY5Bwi7.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccY5Bwi7.o:(.bss+0x4): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccY5Bwi7.o: in function `main':
+cautaredivimp.cpp:(.text+0x92): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc4IzTEa.o: in function `main':
+celmaimarenr.cpp:(.text+0x103): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cciSNGv8.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cciSNGv8.o: in function `cmmnr(int)':
+celmaimicnr.cpp:(.text+0x0): multiple definition of `cmmnr(int)'; /tmp/cc4IzTEa.o:celmaimarenr.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cciSNGv8.o: in function `main':
+celmaimicnr.cpp:(.text+0x148): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccDQl9j9.o: in function `main':
+cifmaxminrec.cpp:(.text+0x172): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cckNBVx7.o: in function `main':
+cifmaxparrec.cpp:(.text+0x112): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cccgbeb9.o: in function `main':
+cifmaxrec.cpp:(.text+0xce): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccBUCJ77.o: in function `main':
+cifminparrec.cpp:(.text+0xe8): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccNJ8wI7.o: in function `cifmin(long long)':
+cifminrec.cpp:(.text+0x0): multiple definition of `cifmin(long long)'; /tmp/cccgbeb9.o:cifmaxrec.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccNJ8wI7.o: in function `main':
+cifminrec.cpp:(.text+0xce): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccH4DTm7.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccH4DTm7.o: in function `main':
+cifre_zero.cpp:(.text+0x88): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccv1Rwlb.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccv1Rwlb.o:(.bss+0xfa4): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccv1Rwlb.o: in function `main':
+cmmdc3.cpp:(.text+0x93): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc8WETC9.o: in function `main':
+cmmdcrec1.cpp:(.text+0x64): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc53uVZa.o: in function `main':
+cmmdcrec.cpp:(.text+0x51): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccPNkf9a.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccPNkf9a.o:(.bss+0xfb4): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccPNkf9a.o: in function `DivideEtImperia(int, int)':
+cntimpare.cpp:(.text+0x0): multiple definition of `DivideEtImperia(int, int)'; /tmp/ccv1Rwlb.o:cmmdc3.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccPNkf9a.o: in function `main':
+cntimpare.cpp:(.text+0x8a): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccDdEeF8.o: in function `main':
+count.cpp:(.text+0xaa): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccFkwaO8.o: in function `main':
+crearenumar1.cpp:(.text+0x107): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccqUBbdb.o: in function `main':
+crearenumar.cpp:(.text+0x9d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccqmQEK8.o: in function `afis()':
+cuburi2.cpp:(.text+0x147): multiple definition of `afis()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x37c): first defined here
+/usr/bin/ld: /tmp/ccqmQEK8.o: in function `main':
+cuburi2.cpp:(.text+0x1a9): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cchM6ym8.o:(.bss+0x0): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cchM6ym8.o:(.data+0x0): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/cchM6ym8.o:(.data+0x1c): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/cchM6ym8.o: in function `main':
+cuvant.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.bss+0x100): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.bss+0x2810): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.data+0x3): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.bss+0x2818): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o:(.bss+0x281c): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/ccIZIFY9.o: in function `main':
+cuvinte1.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccXMAp18.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccXMAp18.o: in function `main':
+dinti1.cpp:(.text+0x3d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccz15sV6.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccz15sV6.o:(.bss+0x20): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccz15sV6.o: in function `main':
+dinti.cpp:(.text+0xbf): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0x100): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0xcb8): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0xcc0): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0xd24): multiple definition of `Max'; /tmp/ccbdSo17.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0xd28): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.data+0x4): multiple definition of `OK'; /tmp/ccFA8U17.o:(.data+0x4): first defined here
+/usr/bin/ld: /tmp/cciZM119.o:(.bss+0xd2c): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/cciZM119.o: in function `main':
+distlungmax.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccr7fmB8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccr7fmB8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccr7fmB8.o:(.bss+0x420): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccr7fmB8.o:(.bss+0x2360): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccr7fmB8.o: in function `main':
+div3.cpp:(.text+0x6a): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x424): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x428): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x440): multiple definition of `cuv'; /tmp/ccYbisp9.o:(.bss+0xc0): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.data+0x0): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o:(.bss+0x468): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cc4lLnW6.o: in function `main':
+doarvocale.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x100): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x2810): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.data+0x3): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x2818): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x281c): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x2820): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o:(.bss+0x2824): multiple definition of `j'; /tmp/cc0rLOE8.o:(.bss+0x42c): first defined here
+/usr/bin/ld: /tmp/ccC2bPr9.o: in function `main':
+dublarevocale.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccC6lJy8.o: in function `main':
+element_sa.cpp:(.text+0x5fa): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5tu1Y6.o: in function `main':
+elimcifrec.cpp:(.text+0x1a2): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccOkmwS9.o: in function `main':
+eliminare.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccAzU8Z6.o:(.bss+0x0): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccAzU8Z6.o:(.bss+0x20): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccAzU8Z6.o:(.data+0x0): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/ccAzU8Z6.o: in function `main':
+eliminareperechivocale.cpp:(.text+0x5d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccxIDgea.o: in function `main':
+eliminarevocale.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccKWtQt7.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccKWtQt7.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccKWtQt7.o:(.bss+0x420): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccKWtQt7.o:(.bss+0x428): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccKWtQt7.o: in function `main':
+elimin_prime.cpp:(.text+0x201): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccfSIXU9.o:(.bss+0x0): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccfSIXU9.o:(.bss+0x20): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccfSIXU9.o:(.bss+0x2740): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccfSIXU9.o:(.bss+0x4e60): multiple definition of `y'; /tmp/ccY5Bwi7.o:(.bss+0xfc0): first defined here
+/usr/bin/ld: /tmp/ccfSIXU9.o: in function `main':
+elimp.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccfgyiI9.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccfgyiI9.o:(.bss+0x20): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccfgyiI9.o: in function `main':
+existaimpare.cpp:(.text+0xa5): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccI2SEPa.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccI2SEPa.o:(.bss+0xfa0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccI2SEPa.o: in function `is_prime(int)':
+existaprimedivimp.cpp:(.text+0x0): multiple definition of `is_prime(int)'; /tmp/ccKWtQt7.o:elimin_prime.cpp:(.text+0xb0): first defined here
+/usr/bin/ld: /tmp/ccI2SEPa.o: in function `main':
+existaprimedivimp.cpp:(.text+0xdd): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccLMVzGa.o: in function `main':
+factorialif_iterative.cpp:(.text+0x36): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccSZ8Rs9.o: in function `fact(int)':
+factorialif_recursive.cpp:(.text+0x0): multiple definition of `fact(int)'; /tmp/ccLMVzGa.o:factorialif_iterative.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccSZ8Rs9.o: in function `main':
+factorialif_recursive.cpp:(.text+0x35): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cclP1Xjb.o: in function `main':
+factorialrec1.cpp:(.text+0x4e): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccJRzah9.o: in function `main':
+factorialrec.cpp:(.text+0x2f): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccJkLxC7.o: in function `main':
+fadaugareinaintelista.cpp:(.text+0xf5): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cclbiC78.o: in function `main':
+fadaugarelista.cpp:(.text+0x10d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccHqHzd7.o: in function `main':
+fadcresc.cpp:(.text+0x1e7): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccClUcm8.o: in function `add_to_tail(nod*&, int)':
+fafisarelista_for_loop.cpp:(.text+0x73): multiple definition of `add_to_tail(nod*&, int)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0xda): first defined here
+/usr/bin/ld: /tmp/ccClUcm8.o: in function `main':
+fafisarelista_for_loop.cpp:(.text+0xf6): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc3tvVU6.o: in function `afisare(nod*)':
+fafisarelista_while_loop.cpp:(.text+0x0): multiple definition of `afisare(nod*)'; /tmp/ccClUcm8.o:fafisarelista_for_loop.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cc3tvVU6.o: in function `add_to_tail(nod*&, int)':
+fafisarelista_while_loop.cpp:(.text+0x6b): multiple definition of `add_to_tail(nod*&, int)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0xda): first defined here
+/usr/bin/ld: /tmp/cc3tvVU6.o: in function `main':
+fafisarelista_while_loop.cpp:(.text+0xee): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccHQr4na.o: in function `main':
+fafisarematrice.cpp:(.text+0xa5): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccwEpym7.o: in function `main':
+fcautare.cpp:(.text+0x5b): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x0): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x290a4): multiple definition of `c'; /tmp/cc0rLOE8.o:(.bss+0x434ed8): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x290c0): multiple definition of `b'; /tmp/cc2duMW6.o:(.bss+0x100): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x1715f8): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x1715fc): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x171600): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x171620): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o:(.bss+0x171840): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccgVaWE9.o: in function `main':
+ferma.cpp:(.text+0x2ad): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o: in function `inside_matrix(int, int)':
+fill.cpp:(.text+0x0): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o: in function `citire()':
+fill.cpp:(.text+0x19b): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccmHFHaa.o: in function `main':
+fill.cpp:(.text+0x232): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccNfQcy7.o: in function `print_list(nod*)':
+flistainserare1.cpp:(.text+0x122): multiple definition of `print_list(nod*)'; /tmp/ccJkLxC7.o:fadaugareinaintelista.cpp:(.text+0x6b): first defined here
+/usr/bin/ld: /tmp/ccNfQcy7.o: in function `main':
+flistainserare1.cpp:(.text+0x1f9): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5Njfy9.o: in function `add_tail_node(nod*&, int)':
+flistainserare2.cpp:(.text+0x7e): multiple definition of `add_tail_node(nod*&, int)'; /tmp/ccNfQcy7.o:flistainserare1.cpp:(.text+0x9f): first defined here
+/usr/bin/ld: /tmp/cc5Njfy9.o: in function `print_list(nod*)':
+flistainserare2.cpp:(.text+0x101): multiple definition of `print_list(nod*)'; /tmp/ccJkLxC7.o:fadaugareinaintelista.cpp:(.text+0x6b): first defined here
+/usr/bin/ld: /tmp/cc5Njfy9.o: in function `main':
+flistainserare2.cpp:(.text+0x18b): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc2C4ag9.o: in function `add_tail_node(nod*&, int)':
+flistainserare3.cpp:(.text+0x103): multiple definition of `add_tail_node(nod*&, int)'; /tmp/ccNfQcy7.o:flistainserare1.cpp:(.text+0x9f): first defined here
+/usr/bin/ld: /tmp/cc2C4ag9.o: in function `print_list(nod*)':
+flistainserare3.cpp:(.text+0x186): multiple definition of `print_list(nod*)'; /tmp/ccJkLxC7.o:fadaugareinaintelista.cpp:(.text+0x6b): first defined here
+/usr/bin/ld: /tmp/cc2C4ag9.o: in function `main':
+flistainserare3.cpp:(.text+0x210): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cchfSBt7.o: in function `display_list(nod*)':
+flistanumarare1.cpp:(.text+0xd5): multiple definition of `display_list(nod*)'; /tmp/cclbiC78.o:fadaugarelista.cpp:(.text+0x83): first defined here
+/usr/bin/ld: /tmp/cchfSBt7.o: in function `main':
+flistanumarare1.cpp:(.text+0x15f): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccVXAaRa.o: in function `numarare(nod*)':
+flistanumarare2.cpp:(.text+0x37): multiple definition of `numarare(nod*)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccVXAaRa.o: in function `insert_to_tail(nod*&, int)':
+flistanumarare2.cpp:(.text+0xbb): multiple definition of `insert_to_tail(nod*&, int)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x52): first defined here
+/usr/bin/ld: /tmp/ccVXAaRa.o: in function `display_list(nod*)':
+flistanumarare2.cpp:(.text+0x13e): multiple definition of `display_list(nod*)'; /tmp/cclbiC78.o:fadaugarelista.cpp:(.text+0x83): first defined here
+/usr/bin/ld: /tmp/ccVXAaRa.o: in function `main':
+flistanumarare2.cpp:(.text+0x1c8): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccM9D4nb.o: in function `numarare(nod*)':
+flistanumarare_iterative.cpp:(.text+0x0): multiple definition of `numarare(nod*)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccM9D4nb.o: in function `insert_to_tail(nod*&, int)':
+flistanumarare_iterative.cpp:(.text+0x39): multiple definition of `insert_to_tail(nod*&, int)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x52): first defined here
+/usr/bin/ld: /tmp/ccM9D4nb.o: in function `display_list(nod*)':
+flistanumarare_iterative.cpp:(.text+0xbc): multiple definition of `display_list(nod*)'; /tmp/cclbiC78.o:fadaugarelista.cpp:(.text+0x83): first defined here
+/usr/bin/ld: /tmp/ccM9D4nb.o: in function `main':
+flistanumarare_iterative.cpp:(.text+0x146): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc96aTN8.o: in function `numarare(nod*)':
+flistanumarare_recursive.cpp:(.text+0x0): multiple definition of `numarare(nod*)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cc96aTN8.o: in function `insert_to_tail(nod*&, int)':
+flistanumarare_recursive.cpp:(.text+0x33): multiple definition of `insert_to_tail(nod*&, int)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x52): first defined here
+/usr/bin/ld: /tmp/cc96aTN8.o: in function `display_list(nod*)':
+flistanumarare_recursive.cpp:(.text+0xb6): multiple definition of `display_list(nod*)'; /tmp/cclbiC78.o:fadaugarelista.cpp:(.text+0x83): first defined here
+/usr/bin/ld: /tmp/cc96aTN8.o: in function `main':
+flistanumarare_recursive.cpp:(.text+0x140): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc3Gxgj9.o: in function `add_to_tail(nod*&, int)':
+flistastergere1.cpp:(.text+0xbb): multiple definition of `add_to_tail(nod*&, int)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0xda): first defined here
+/usr/bin/ld: /tmp/cc3Gxgj9.o: in function `afis(nod*)':
+flistastergere1.cpp:(.text+0x13e): multiple definition of `afis(nod*)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0x15d): first defined here
+/usr/bin/ld: /tmp/cc3Gxgj9.o: in function `get_kth_node(nod*, int)':
+flistastergere1.cpp:(.text+0x1c8): multiple definition of `get_kth_node(nod*, int)'; /tmp/ccNfQcy7.o:flistainserare1.cpp:(.text+0x1ac): first defined here
+/usr/bin/ld: /tmp/cc3Gxgj9.o: in function `main':
+flistastergere1.cpp:(.text+0x215): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccdcM4X8.o: in function `add_tail_node(nod*&, int)':
+flistastergere2.cpp:(.text+0xe6): multiple definition of `add_tail_node(nod*&, int)'; /tmp/ccNfQcy7.o:flistainserare1.cpp:(.text+0x9f): first defined here
+/usr/bin/ld: /tmp/ccdcM4X8.o: in function `print_list(nod*)':
+flistastergere2.cpp:(.text+0x169): multiple definition of `print_list(nod*)'; /tmp/ccJkLxC7.o:fadaugareinaintelista.cpp:(.text+0x6b): first defined here
+/usr/bin/ld: /tmp/ccdcM4X8.o: in function `main':
+flistastergere2.cpp:(.text+0x1f3): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccXBgbq8.o: in function `sterge(nod*&, nod*)':
+flistastergere.cpp:(.text+0x0): multiple definition of `sterge(nod*&, nod*)'; /tmp/cc3Gxgj9.o:flistastergere1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccXBgbq8.o: in function `add_to_tail(nod*&, int)':
+flistastergere.cpp:(.text+0x95): multiple definition of `add_to_tail(nod*&, int)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0xda): first defined here
+/usr/bin/ld: /tmp/ccXBgbq8.o: in function `afis(nod*)':
+flistastergere.cpp:(.text+0x118): multiple definition of `afis(nod*)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0x15d): first defined here
+/usr/bin/ld: /tmp/ccXBgbq8.o: in function `get_kth_node(nod*, int)':
+flistastergere.cpp:(.text+0x1a2): multiple definition of `get_kth_node(nod*, int)'; /tmp/ccNfQcy7.o:flistainserare1.cpp:(.text+0x1ac): first defined here
+/usr/bin/ld: /tmp/ccXBgbq8.o: in function `main':
+flistastergere.cpp:(.text+0x1ef): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccvM2uv7.o: in function `insert_to_tail(nod*&, int)':
+flistasuma.cpp:(.text+0x9e): multiple definition of `insert_to_tail(nod*&, int)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x52): first defined here
+/usr/bin/ld: /tmp/ccvM2uv7.o: in function `print_list(nod*)':
+flistasuma.cpp:(.text+0x121): multiple definition of `print_list(nod*)'; /tmp/ccJkLxC7.o:fadaugareinaintelista.cpp:(.text+0x6b): first defined here
+/usr/bin/ld: /tmp/ccvM2uv7.o: in function `main':
+flistasuma.cpp:(.text+0x1ab): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccEpSZF7.o: in function `main':
+flistaverpalindrom.cpp:(.text+0x25b): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cczMgiQ7.o:(.bss+0x20): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cczMgiQ7.o:(.bss+0x120): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cczMgiQ7.o: in function `main':
+frecventa.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc39iKW7.o: in function `insert_to_tail(nod*&, int)':
+fsortare.cpp:(.text+0x84): multiple definition of `insert_to_tail(nod*&, int)'; /tmp/cchfSBt7.o:flistanumarare1.cpp:(.text+0x52): first defined here
+/usr/bin/ld: /tmp/cc39iKW7.o: in function `main':
+fsortare.cpp:(.text+0x194): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccK0Hema.o: in function `add_tail_node(nod*&, int)':
+fstergeprimuldinlista.cpp:(.text+0x54): multiple definition of `add_tail_node(nod*&, int)'; /tmp/ccNfQcy7.o:flistainserare1.cpp:(.text+0x9f): first defined here
+/usr/bin/ld: /tmp/ccK0Hema.o: in function `print_list(nod*)':
+fstergeprimuldinlista.cpp:(.text+0xd7): multiple definition of `print_list(nod*)'; /tmp/ccJkLxC7.o:fadaugareinaintelista.cpp:(.text+0x6b): first defined here
+/usr/bin/ld: /tmp/ccK0Hema.o: in function `main':
+fstergeprimuldinlista.cpp:(.text+0x161): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc9PTcIa.o: in function `main':
+fsumdiv3.cpp:(.text+0x89): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccbr2Ab9.o: in function `main':
+fsumvec.cpp:(.text+0x7f): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccwTPR89.o: in function `main':
+fsumvecmin.cpp:(.text+0xe9): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5wrQy7.o: in function `suma(int*, int, int, int)':
+fsumvecrec.cpp:(.text+0x0): multiple definition of `suma(int*, int, int, int)'; /tmp/ccbr2Ab9.o:fsumvec.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cc5wrQy7.o: in function `main':
+fsumvecrec.cpp:(.text+0xa0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9e4): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9e8): multiple definition of `y'; /tmp/ccY5Bwi7.o:(.bss+0xfc0): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9ec): multiple definition of `xi'; /tmp/cc0rLOE8.o:(.bss+0x434ed0): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9f0): multiple definition of `yi'; /tmp/cc0rLOE8.o:(.bss+0x434ed4): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9f4): multiple definition of `xf'; /tmp/ccmwAex8.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9f8): multiple definition of `yf'; /tmp/ccmwAex8.o:(.bss+0x434): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3da9fc): multiple definition of `k'; /tmp/ccbdSo17.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.data+0x20): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o:(.bss+0x3daa00): multiple definition of `Q'; /tmp/cc0rLOE8.o:(.bss+0x434ee0): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o: in function `citire()':
+gigelajungeacasa.cpp:(.text+0x0): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o: in function `inside(int, int)':
+gigelajungeacasa.cpp:(.text+0xee): multiple definition of `inside(int, int)'; /tmp/ccVVk877.o:castel2.cpp:(.text+0x2a5): first defined here
+/usr/bin/ld: /tmp/cceHIfO6.o: in function `main':
+gigelajungeacasa.cpp:(.text+0x380): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o:(.bss+0x428): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o: in function `inside_matrix(int, int)':
+grupuri.cpp:(.text+0x0): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o: in function `Fill(int, int)':
+grupuri.cpp:(.text+0x3e): multiple definition of `Fill(int, int)'; /tmp/ccmHFHaa.o:fill.cpp:(.text+0x3e): first defined here
+/usr/bin/ld: /tmp/ccCoCRt9.o: in function `main':
+grupuri.cpp:(.text+0x109): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc2Ayd5a.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc2Ayd5a.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc2Ayd5a.o: in function `main':
+halfsort.cpp:(.text+0x2ac): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.data+0x0): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.data+0x1): multiple definition of `b'; /tmp/cc2duMW6.o:(.bss+0x100): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.data+0x2): multiple definition of `c'; /tmp/cc0rLOE8.o:(.bss+0x434ed8): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.bss+0x420): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.bss+0x31160): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o:(.bss+0x31164): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o: in function `afis()':
+hanoi.cpp:(.text+0xdf): multiple definition of `afis()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x37c): first defined here
+/usr/bin/ld: /tmp/ccBNPnr9.o: in function `main':
+hanoi.cpp:(.text+0x18c): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x420): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x424): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x428): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x42c): multiple definition of `k'; /tmp/ccbdSo17.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o:(.bss+0x480): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o: in function `inside_matrix(int, int)':
+harta1.cpp:(.text+0x97): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccxMCtE9.o: in function `main':
+harta1.cpp:(.text+0x3bf): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x428): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x42c): multiple definition of `y'; /tmp/ccY5Bwi7.o:(.bss+0xfc0): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o:(.bss+0x163d0): multiple definition of `OK'; /tmp/ccFA8U17.o:(.data+0x4): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o: in function `bordare()':
+iesire.cpp:(.text+0x0): multiple definition of `bordare()'; /tmp/ccmwAex8.o:alee.cpp:(.text+0x10a): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o: in function `citire()':
+iesire.cpp:(.text+0x11b): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o: in function `inside_matrix(int, int)':
+iesire.cpp:(.text+0x212): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccQT6ys9.o: in function `main':
+iesire.cpp:(.text+0x420): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccnlabU8.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccnlabU8.o:(.bss+0x4): multiple definition of `k'; /tmp/ccbdSo17.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccnlabU8.o:(.bss+0x20): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccnlabU8.o: in function `citire()':
+inaltimiq.cpp:(.text+0x10b): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccnlabU8.o: in function `main':
+inaltimiq.cpp:(.text+0x185): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccBwMp9a.o: in function `main':
+initiale.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccOK68V8.o: in function `main':
+inlocuire0.cpp:(.text+0x65): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccPIkR16.o:(.bss+0x0): multiple definition of `sir'; /tmp/ccbdSo17.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccPIkR16.o:(.bss+0x100): multiple definition of `cuv'; /tmp/ccYbisp9.o:(.bss+0xc0): first defined here
+/usr/bin/ld: /tmp/ccPIkR16.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccPIkR16.o:(.bss+0x200): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccPIkR16.o: in function `main':
+insertinvers.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccZBHBhb.o: in function `main':
+interschimbare.cpp:(.text+0x142): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccsDVUaa.o: in function `is_prime(int)':
+interval4.cpp:(.text+0x0): multiple definition of `is_prime(int)'; /tmp/ccKWtQt7.o:elimin_prime.cpp:(.text+0xb0): first defined here
+/usr/bin/ld: /tmp/ccsDVUaa.o: in function `main':
+interval4.cpp:(.text+0x89): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cczYke48.o: in function `main':
+interval.cpp:(.text+0xd4): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccwSYy1a.o: in function `main':
+jucarii.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x3da9e8): multiple definition of `NR'; /tmp/cciiqqAa.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o:(.bss+0x3da9ec): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o: in function `inside_matrix(int, int)':
+lac.cpp:(.text+0x0): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o: in function `Fill(int, int, bool&)':
+lac.cpp:(.text+0x3e): multiple definition of `Fill(int, int, bool&)'; /tmp/ccQT6ys9.o:iesire.cpp:(.text+0x250): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o: in function `citire()':
+lac.cpp:(.text+0x156): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/cctNLnCa.o: in function `main':
+lac.cpp:(.text+0x1ed): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o:(.bss+0x428): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o:(.bss+0x42c): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o:(.bss+0x430): multiple definition of `y'; /tmp/ccY5Bwi7.o:(.bss+0xfc0): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o:(.bss+0x434): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o: in function `afis(nod*)':
+list.cpp:(.text+0x0): multiple definition of `afis(nod*)'; /tmp/ccHqHzd7.o:fadcresc.cpp:(.text+0x15d): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o: in function `CreareV(nod*&, int)':
+list.cpp:(.text+0x6c): multiple definition of `CreareV(nod*&, int)'; /tmp/ccKWtQt7.o:elimin_prime.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccUquCD8.o: in function `main':
+list.cpp:(.text+0x386): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccjQdPn7.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccjQdPn7.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccjQdPn7.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccjQdPn7.o:(.bss+0x440): multiple definition of `cuv'; /tmp/ccYbisp9.o:(.bss+0xc0): first defined here
+/usr/bin/ld: /tmp/ccjQdPn7.o:(.bss+0x540): multiple definition of `rasp'; /tmp/ccVVk877.o:(.bss+0x7b4fc0): first defined here
+/usr/bin/ld: /tmp/ccjQdPn7.o: in function `main':
+lungimemaxima.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5hngA7.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cc5hngA7.o:(.bss+0x100): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/cc5hngA7.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cc5hngA7.o:(.bss+0xcb8): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cc5hngA7.o:(.bss+0xcc0): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc5hngA7.o: in function `main':
+lungsortdesc.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccQJXgO9.o: in function `main':
+manna-pnueli.cpp:(.text+0x34): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccZtX2Z7.o:(.bss+0x0): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccZtX2Z7.o:(.bss+0x9f64): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccZtX2Z7.o:(.bss+0x9f68): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccZtX2Z7.o: in function `main':
+matrdivimp1.cpp:(.text+0x174): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccNMERo8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccNMERo8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccNMERo8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccNMERo8.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccNMERo8.o: in function `Divide(int, int, int)':
+matrice_div_et_imp.cpp:(.text+0x0): multiple definition of `Divide(int, int, int)'; /tmp/ccY5Bwi7.o:cautaredivimp.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccNMERo8.o: in function `main':
+matrice_div_et_imp.cpp:(.text+0xd5): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccwKjIC7.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccwKjIC7.o:(.bss+0xfb4): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccwKjIC7.o:(.bss+0xfb8): multiple definition of `M'; /tmp/cc0rLOE8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccwKjIC7.o: in function `main':
+maxim6.cpp:(.text+0x80): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccgZhZx9.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccgZhZx9.o:(.bss+0xfb4): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccgZhZx9.o: in function `is_prime(int)':
+maxprim.cpp:(.text+0x0): multiple definition of `is_prime(int)'; /tmp/ccKWtQt7.o:elimin_prime.cpp:(.text+0xb0): first defined here
+/usr/bin/ld: /tmp/ccgZhZx9.o: in function `main':
+maxprim.cpp:(.text+0xc8): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccfyxC89.o: in function `main':
+multiplu_iterative.cpp:(.text+0xa9): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccLVo5m9.o: in function `multiplu(int*, int, int)':
+multiplu_recursive.cpp:(.text+0x0): multiple definition of `multiplu(int*, int, int)'; /tmp/ccfyxC89.o:multiplu_iterative.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccLVo5m9.o: in function `main':
+multiplu_recursive.cpp:(.text+0x13a): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5yU7Wa.o: in function `is_prime(int)':
+mutare2.cpp:(.text+0x0): multiple definition of `is_prime(int)'; /tmp/ccKWtQt7.o:elimin_prime.cpp:(.text+0xb0): first defined here
+/usr/bin/ld: /tmp/cc5yU7Wa.o: in function `main':
+mutare2.cpp:(.text+0x258): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc0TupHa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc0TupHa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc0TupHa.o:(.bss+0x428): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc0TupHa.o: in function `main':
+muzical.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccxehFdb.o:(.data+0x0): multiple definition of `nota'; /tmp/cc0TupHa.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccxehFdb.o:(.bss+0x100): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccxehFdb.o:(.data+0x1c): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccxehFdb.o:(.bss+0x108): multiple definition of `OK'; /tmp/ccFA8U17.o:(.data+0x4): first defined here
+/usr/bin/ld: /tmp/ccxehFdb.o: in function `main':
+note.cpp:(.text+0x5c): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccpJmBp8.o: in function `main':
+nrvocrec.cpp:(.text+0x5d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0x4): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0x8): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0xc): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0x10): multiple definition of `NR'; /tmp/cciiqqAa.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0x20): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.data+0x20): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0xb8): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o:(.bss+0xc0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccw1qdb8.o: in function `main':
+numararecuvinte.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccEnV4I7.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccEnV4I7.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccEnV4I7.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccEnV4I7.o: in function `main':
+numarmaximcuvinte.cpp:(.text+0xbb): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cchEytsa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cchEytsa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cchEytsa.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cchEytsa.o:(.bss+0x440): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cchEytsa.o:(.data+0x0): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/cchEytsa.o: in function `main':
+numarmaximvocale.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccJ3O6N9.o: in function `main':
+numarpermutari.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x428): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.data+0x0): multiple definition of `Max'; /tmp/ccbdSo17.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x42c): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o: in function `inside_matrix(int, int)':
+oaste2.cpp:(.text+0x0): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccZgL2l8.o: in function `main':
+oaste2.cpp:(.text+0x159): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc4gt46a.o: in function `main':
+oglindit2.cpp:(.text+0x7b): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccnGXd06.o: in function `main':
+ordon123.cpp:(.text+0x12c): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccP5REi9.o: in function `main':
+ordonaref1.cpp:(.text+0xaf): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccwhlws7.o: in function `ordonare(int*, int)':
+ordonaref.cpp:(.text+0x0): multiple definition of `ordonare(int*, int)'; /tmp/ccP5REi9.o:ordonaref1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccwhlws7.o: in function `main':
+ordonaref.cpp:(.text+0xaf): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccUixPc9.o: in function `ordonare(int*, int)':
+ordonaref_rec.cpp:(.text+0x0): multiple definition of `ordonare(int*, int)'; /tmp/ccP5REi9.o:ordonaref1.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccUixPc9.o: in function `main':
+ordonaref_rec.cpp:(.text+0xaf): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccKgIpp9.o: in function `main':
+ordonaresecvf.cpp:(.text+0xb1): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccKYbbe9.o: in function `ordonare(int*, int, int, int)':
+ordonaresecvf_rec.cpp:(.text+0x0): multiple definition of `ordonare(int*, int, int, int)'; /tmp/ccKgIpp9.o:ordonaresecvf.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccKYbbe9.o: in function `main':
+ordonaresecvf_rec.cpp:(.text+0xb7): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccAVXpW8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccAVXpW8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccAVXpW8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccAVXpW8.o:(.bss+0x440): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccAVXpW8.o: in function `citire()':
+palindrom_ciclic.cpp:(.text+0x196): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccAVXpW8.o: in function `main':
+palindrom_ciclic.cpp:(.text+0x1f6): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccKKCqR7.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccKKCqR7.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccKKCqR7.o: in function `main':
+palindrom.cpp:(.text+0x75): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccEHJ8U9.o:(.bss+0x20): multiple definition of `sir'; /tmp/ccbdSo17.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccEHJ8U9.o:(.bss+0x120): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccEHJ8U9.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccEHJ8U9.o: in function `main':
+palindrommaxim.cpp:(.text+0x86): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccaJVXu9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccaJVXu9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccaJVXu9.o: in function `main':
+palindrompropozitie.cpp:(.text+0xfe): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0x420): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0xf65c0): multiple definition of `b'; /tmp/cc2duMW6.o:(.bss+0x100): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0x1ec750): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0x1ec754): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0x1ec764): multiple definition of `c'; /tmp/cc0rLOE8.o:(.bss+0x434ed8): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0x1ec770): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o:(.bss+0x1ec774): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o: in function `citire()':
+panda.cpp:(.text+0x0): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccaDrM97.o: in function `main':
+panda.cpp:(.text+0x6ed): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x428): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.data+0x0): multiple definition of `Max'; /tmp/ccbdSo17.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x42c): multiple definition of `arie'; /tmp/ccZgL2l8.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x430): multiple definition of `NR'; /tmp/cciiqqAa.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccgbGFH7.o: in function `main':
+parcela.cpp:(.text+0xd0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccEGWQp9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccEGWQp9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccEGWQp9.o: in function `main':
+parsare.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc97NQ27.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cc97NQ27.o:(.bss+0x400): multiple definition of `t'; /tmp/ccaDrM97.o:(.bss+0x1ec75c): first defined here
+/usr/bin/ld: /tmp/cc97NQ27.o:(.data+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/cc97NQ27.o:(.bss+0x7e8): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc97NQ27.o:(.bss+0x7ec): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/cc97NQ27.o: in function `main':
+pasareste1.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccIPFDwa.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccIPFDwa.o:(.bss+0x400): multiple definition of `t'; /tmp/ccaDrM97.o:(.bss+0x1ec75c): first defined here
+/usr/bin/ld: /tmp/ccIPFDwa.o:(.data+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccIPFDwa.o:(.bss+0x7e8): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccIPFDwa.o: in function `main':
+pasareste.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccOghhW8.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccOghhW8.o:(.bss+0x4): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/ccOghhW8.o:(.bss+0x20): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccOghhW8.o: in function `afis()':
+pattern1.cpp:(.text+0x1f8): multiple definition of `afis()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x37c): first defined here
+/usr/bin/ld: /tmp/ccOghhW8.o: in function `main':
+pattern1.cpp:(.text+0x28a): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccgu548a.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccgu548a.o:(.bss+0x4): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/ccgu548a.o:(.bss+0x20): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccgu548a.o: in function `Divide(int, int, int)':
+pattern.cpp:(.text+0x2d): multiple definition of `Divide(int, int, int)'; /tmp/ccY5Bwi7.o:cautaredivimp.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccgu548a.o: in function `main':
+pattern.cpp:(.text+0x1a8): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x428): multiple definition of `k'; /tmp/ccbdSo17.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x42c): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x430): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x434): multiple definition of `j'; /tmp/cc0rLOE8.o:(.bss+0x42c): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x440): multiple definition of `aux'; /tmp/ccVVk877.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x29500): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x525c0): multiple definition of `rasp'; /tmp/ccVVk877.o:(.bss+0x7b4fc0): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x7b664): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.data+0x10): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x7c020): multiple definition of `Q'; /tmp/cc0rLOE8.o:(.bss+0x434ee0): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o:(.bss+0x7c080): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o: in function `citire()':
+paznici.cpp:(.text+0x0): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o: in function `inside(int, int)':
+paznici.cpp:(.text+0x19c): multiple definition of `inside(int, int)'; /tmp/ccVVk877.o:castel2.cpp:(.text+0x2a5): first defined here
+/usr/bin/ld: /tmp/cc9ZaOBa.o: in function `main':
+paznici.cpp:(.text+0x64a): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x424): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x428): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x42c): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.data+0x0): multiple definition of `OK'; /tmp/ccFA8U17.o:(.data+0x4): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x440): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.data+0x10): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x540): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o:(.bss+0x560): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccHODqEa.o: in function `main':
+pbinfo.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccJ9nrZ9.o: in function `main':
+perechivocale.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccADuk4a.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccADuk4a.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccADuk4a.o:(.bss+0x420): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccADuk4a.o: in function `main':
+permutarecuvant.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccxllVg9.o: in function `main':
+powerrec.cpp:(.text+0x37): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccaP2k48.o: in function `main':
+pozitii.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccYNZcXa.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccYNZcXa.o: in function `main':
+primalitate.cpp:(.text+0x4b): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccYD55M9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccYD55M9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccYD55M9.o: in function `prim(int)':
+prime.cpp:(.text+0x0): multiple definition of `prim(int)'; /tmp/ccYNZcXa.o:primalitate.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccYD55M9.o: in function `main':
+prime.cpp:(.text+0x3e): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccry1KC9.o: in function `main':
+puncte.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccQtZxj9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccQtZxj9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccQtZxj9.o: in function `main':
+radixsort_vectori.cpp:(.text+0x451): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccP6PWR9.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccP6PWR9.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccP6PWR9.o: in function `main':
+radixsort_vector_si_cozi.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cciLO9W8.o: in function `cmmdc(int, int)':
+resturi1.cpp:(.text+0x0): multiple definition of `cmmdc(int, int)'; /tmp/cc53uVZa.o:cmmdcrec.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cciLO9W8.o: in function `main':
+resturi1.cpp:(.text+0x99): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x895880): multiple definition of `xi'; /tmp/cc0rLOE8.o:(.bss+0x434ed0): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x895884): multiple definition of `yi'; /tmp/cc0rLOE8.o:(.bss+0x434ed4): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x895888): multiple definition of `xf'; /tmp/ccmwAex8.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x89588c): multiple definition of `yf'; /tmp/ccmwAex8.o:(.bss+0x434): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x895890): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x895894): multiple definition of `j'; /tmp/cc0rLOE8.o:(.bss+0x42c): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.data+0x10): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/cc09vela.o:(.bss+0x8958a0): multiple definition of `Q'; /tmp/cc0rLOE8.o:(.bss+0x434ee0): first defined here
+/usr/bin/ld: /tmp/cc09vela.o: in function `inside_matrix(int, int)':
+roboti.cpp:(.text+0x0): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/cc09vela.o: in function `Lee(int, int)':
+roboti.cpp:(.text+0x3e): multiple definition of `Lee(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x3e): first defined here
+/usr/bin/ld: /tmp/cc09vela.o: in function `main':
+roboti.cpp:(.text+0x2d3): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x428): multiple definition of `q'; /tmp/ccYbisp9.o:(.bss+0xc): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x42c): multiple definition of `k'; /tmp/ccbdSo17.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x3da9f4): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o:(.bss+0x3da9fc): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o: in function `Fill(int, int)':
+sahara.cpp:(.text+0x0): multiple definition of `Fill(int, int)'; /tmp/ccmHFHaa.o:fill.cpp:(.text+0x3e): first defined here
+/usr/bin/ld: /tmp/ccpRkev7.o: in function `main':
+sahara.cpp:(.text+0xcc): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc8X5xx7.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cc8X5xx7.o:(.data+0x0): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/cc8X5xx7.o:(.bss+0x100): multiple definition of `Max'; /tmp/ccbdSo17.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/cc8X5xx7.o:(.bss+0x104): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc8X5xx7.o: in function `main':
+secvcons.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc5tqMy7.o: in function `main':
+shift.cpp:(.text+0x7d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cciK9So8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cciK9So8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cciK9So8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cciK9So8.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cciK9So8.o: in function `main':
+sierpinski.cpp:(.text+0x479): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o:(.bss+0x20): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o:(.bss+0x820): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o:(.bss+0x1004): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o:(.bss+0x1020): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o:(.data+0x0): multiple definition of `OK'; /tmp/ccFA8U17.o:(.data+0x4): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o: in function `citire()':
+siruri1.cpp:(.text+0x0): multiple definition of `citire()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x23f): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o: in function `afis()':
+siruri1.cpp:(.text+0x60): multiple definition of `afis()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x37c): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o: in function `prim(int)':
+siruri1.cpp:(.text+0xdc): multiple definition of `prim(int)'; /tmp/ccYNZcXa.o:primalitate.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccd3D8v8.o: in function `main':
+siruri1.cpp:(.text+0x161): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x438): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x4e6a0): multiple definition of `sum'; /tmp/cc0TupHa.o:(.bss+0x42c): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x9c900): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0xeab60): multiple definition of `d'; /tmp/cc9ZaOBa.o:(.bss+0x438): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o:(.bss+0x138dc0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccmhc5y8.o: in function `main':
+skyline.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.bss+0x420): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.bss+0x520): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.bss+0x540): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o:(.bss+0x2c50): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cceNPUw8.o: in function `main':
+sortarecuvinte.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x0): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x50): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x60): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x68): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x6c): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x70): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x74): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o:(.bss+0x80): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccpOw8i9.o: in function `main':
+stiva.cpp:(.text+0x75): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccRK9rta.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccRK9rta.o: in function `main':
+suma_divizorilor.cpp:(.text+0x57): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccGtlNZa.o: in function `main':
+sumaminmax.cpp:(.text+0xe8): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccw2wNz8.o: in function `main':
+sumciff_iterative.cpp:(.text+0x87): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccazlVR6.o: in function `sumcif(long long)':
+sumciff_recursive.cpp:(.text+0x0): multiple definition of `sumcif(long long)'; /tmp/ccw2wNz8.o:sumciff_iterative.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccazlVR6.o: in function `main':
+sumciff_recursive.cpp:(.text+0x8c): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccYCgZrb.o: in function `main':
+sumcifrec1.cpp:(.text+0xa4): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccEEpHr7.o: in function `main':
+sumcifrec.cpp:(.text+0x74): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccE57s8a.o: in function `main':
+sumfactcif.cpp:(.text+0x90): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccl8szw9.o: in function `main':
+sumimpk.cpp:(.text+0x89): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccoiZBf9.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccoiZBf9.o:(.bss+0x20): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccoiZBf9.o: in function `S(int, int)':
+sumparevec.cpp:(.text+0x0): multiple definition of `S(int, int)'; /tmp/ccfgyiI9.o:existaimpare.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccoiZBf9.o: in function `main':
+sumparevec.cpp:(.text+0x9d): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc8UiM07.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/cc8UiM07.o:(.bss+0xfa0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cc8UiM07.o:(.bss+0xfa4): multiple definition of `S'; /tmp/ccqmQEK8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cc8UiM07.o: in function `main':
+sumvec.cpp:(.text+0x78): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x430): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x438): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x460): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0xa700): multiple definition of `b'; /tmp/cc2duMW6.o:(.bss+0x100): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x149a0): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.bss+0x45700): multiple definition of `y'; /tmp/ccY5Bwi7.o:(.bss+0xfc0): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o:(.data+0x10): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/ccUpcW88.o: in function `main':
+taxe2.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccg2Sj06.o:(.bss+0x0): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccg2Sj06.o: in function `main':
+treicifimp.cpp:(.text+0x157): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cco7ISIa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/cco7ISIa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/cco7ISIa.o:(.bss+0x420): multiple definition of `c'; /tmp/cc0rLOE8.o:(.bss+0x434ed8): first defined here
+/usr/bin/ld: /tmp/cco7ISIa.o:(.bss+0x424): multiple definition of `N'; /tmp/ccNMERo8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cco7ISIa.o:(.bss+0x428): multiple definition of `d'; /tmp/cc9ZaOBa.o:(.bss+0x438): first defined here
+/usr/bin/ld: /tmp/cco7ISIa.o: in function `main':
+tv.cpp:(.text+0x511): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccEFIB78.o: in function `main':
+valuri.cpp:(.text+0x78): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc1YW3j7.o: in function `main':
+vectormaxminsum.cpp:(.text+0xdc): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccHjX919.o: in function `is_prime(int)':
+vectorsumprim.cpp:(.text+0x0): multiple definition of `is_prime(int)'; /tmp/ccKWtQt7.o:elimin_prime.cpp:(.text+0xb0): first defined here
+/usr/bin/ld: /tmp/ccHjX919.o: in function `main':
+vectorsumprim.cpp:(.text+0xbc): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccJu7iO9.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccJu7iO9.o:(.bss+0x1a4): multiple definition of `i'; /tmp/cc0rLOE8.o:(.bss+0x428): first defined here
+/usr/bin/ld: /tmp/ccJu7iO9.o:(.bss+0x1a8): multiple definition of `j'; /tmp/cc0rLOE8.o:(.bss+0x42c): first defined here
+/usr/bin/ld: /tmp/ccJu7iO9.o:(.bss+0x1ac): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccJu7iO9.o: in function `Max(int, int)':
+verifnrparcifredivimp.cpp:(.text+0x41): multiple definition of `Max(int, int)'; /tmp/ccI2SEPa.o:existaprimedivimp.cpp:(.text+0x3e): first defined here
+/usr/bin/ld: /tmp/ccJu7iO9.o: in function `main':
+verifnrparcifredivimp.cpp:(.text+0xde): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccfzBog7.o:(.bss+0x0): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccfzBog7.o:(.bss+0x1a4): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccfzBog7.o: in function `main':
+verifparedivimp.cpp:(.text+0x91): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x420): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.data+0x0): multiple definition of `sep'; /tmp/ccYbisp9.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x520): multiple definition of `p'; /tmp/ccYbisp9.o:(.bss+0x890): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x540): multiple definition of `v'; /tmp/cciiqqAa.o:(.bss+0x4e0): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.data+0x20): multiple definition of `voc'; /tmp/cciiqqAa.o:(.data+0x20): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x18be0): multiple definition of `r'; /tmp/ccaDrM97.o:(.bss+0x1ec768): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x18be4): multiple definition of `ok'; /tmp/ccYbisp9.o:(.bss+0x4): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x18be8): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x18c00): multiple definition of `N'; /tmp/ccNMERo8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o:(.bss+0x19ba0): multiple definition of `nr'; /tmp/ccYbisp9.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccIS6LRa.o: in function `main':
+vocsortdesc.cpp:(.text+0x0): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cc7Z7bqb.o: in function `main':
+zero.cpp:(.text+0x200): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.bss+0x420): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.bss+0xa060): multiple definition of `x'; /tmp/ccY5Bwi7.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.bss+0xa064): multiple definition of `y'; /tmp/ccY5Bwi7.o:(.bss+0xfc0): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.bss+0xa068): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.bss+0xa070): multiple definition of `s'; /tmp/cc7QVXZ8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.bss+0xa074): multiple definition of `s1'; /tmp/cco7ISIa.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.data+0x0): multiple definition of `dx'; /tmp/cc0rLOE8.o:(.data+0x0): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o:(.data+0x10): multiple definition of `dy'; /tmp/cc0rLOE8.o:(.data+0x10): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o: in function `afis()':
+zona2.cpp:(.text+0x366): multiple definition of `afis()'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x37c): first defined here
+/usr/bin/ld: /tmp/cchFqzf7.o: in function `main':
+zona2.cpp:(.text+0x858): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x0): multiple definition of `f'; /tmp/cc0rLOE8.o:(.bss+0x0): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x220): multiple definition of `g'; /tmp/cc0rLOE8.o:(.bss+0x220): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x420): multiple definition of `n'; /tmp/cc0rLOE8.o:(.bss+0x420): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x424): multiple definition of `m'; /tmp/cc0rLOE8.o:(.bss+0x424): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x428): multiple definition of `arie'; /tmp/ccZgL2l8.o:(.bss+0x430): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x440): multiple definition of `a'; /tmp/ccYbisp9.o:(.bss+0x20): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0x5c40): multiple definition of `b'; /tmp/cc2duMW6.o:(.bss+0x100): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o:(.bss+0xb440): multiple definition of `M'; /tmp/cc0rLOE8.o:(.bss+0x440): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o: in function `inside_matrix(int, int)':
+zona3.cpp:(.text+0x0): multiple definition of `inside_matrix(int, int)'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x0): first defined here
+/usr/bin/ld: /tmp/ccL61x8a.o: in function `main':
+zona3.cpp:(.text+0x25a): multiple definition of `main'; /tmp/cc0rLOE8.o:access.cpp:(.text+0x4f0): first defined here
+collect2: error: ld returned 1 exit status

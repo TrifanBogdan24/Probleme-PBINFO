@@ -1,4 +1,5 @@
 // #1826 - ZeroF
+
 #include <iostream>
 
 using namespace std;
@@ -12,7 +13,6 @@ int zerof(int n)
     for (int i = 1; i <= n; i++)
     {
         int aux = i;
-        
         while (aux % 5 == 0)
         {
             nr++;
@@ -28,8 +28,10 @@ int zerof(int n)
 int main()
 {
     int n = 0;
-    cin >> n;
-    cout << zerof(n) << '\n';
 
+    cout << "n = ";
+    cin >> n;
+
+    cout << zerof(n) << '\n';
     return 0;
 }

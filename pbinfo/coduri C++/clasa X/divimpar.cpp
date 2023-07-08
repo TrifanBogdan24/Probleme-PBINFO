@@ -1,4 +1,5 @@
 // #2830 - DivImpar
+
 #include <iostream>
 
 using namespace std;
@@ -7,7 +8,7 @@ using namespace std;
 
 int DivImpar(int a, int b)
 {
-    int q = 1, Min = 0;
+    int q, Min;
     
     if (a > b)
         Min = b;
@@ -26,7 +27,14 @@ int DivImpar(int a, int b)
 int main()
 {
     int a = 0, b = 0;
-    cin >> a >> b;
+
+    cout << "a = ";
+    cin >> a;
+
+    cout << "b = ";
+    cin >> b;
+
     cout << DivImpar(a, b) << '\n';
+
     return 0;
 }

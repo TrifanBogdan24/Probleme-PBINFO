@@ -42,7 +42,7 @@ int main()
 
     q = a[1].o;
     p = a[n].o;
-    cout << p << " " << q << '\n';
+    cout << p << " " << q;
 
     return 0;
 }

@@ -1,4 +1,5 @@
 // #113 - FCifre
+
 #include <iostream>
 
 using namespace std;
@@ -7,8 +8,7 @@ using namespace std;
 
 int nr_cif(int n, int k)
 {
-    int nr = 0, q = 0;
-
+    int nr, q;
     nr = 0;
 
     while (n != 0)
@@ -22,14 +22,22 @@ int nr_cif(int n, int k)
     }
 
     return nr;
+    // returnează numărul de cifre ale lui n care divid pe k
 }
 
 // SOLUTIA PBINFO SE TERMINA AICI
 
 int main()
 {
-    int k = 0, n = 0;
-    cin >> k >> n;
+    int n = 0, k = 0;
+
+    cout << "n = ";
+    cin >> n;
+
+    cout << "k = ";
+    cin >> k;
+
     cout << nr_cif(n, k) << '\n';
+
     return 0;
 }

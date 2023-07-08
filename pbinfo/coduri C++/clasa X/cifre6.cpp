@@ -1,4 +1,5 @@
 // #911 - Cifre6
+
 #include <iostream>
 
 using namespace std;
@@ -7,32 +8,29 @@ using namespace std;
 
 void numar(int n, int k, int &x)
 {
-    int v[10] = {0}, cif = 9, ok = 1;
+    int v[10] = {0}, i, ok = 1;
     x = 0;
-    
     while (n != 0)
     {
         v[n % 10]++;
         n = n / 10;
     }
-    
     ok = 1;
-    cif = 9;
-    
+    i = 9;
     while (ok == 1)
     {
-        while (v[cif] != 0)
+        while (v[i] != 0)
         {
-            x = x * 10 + cif;
+            x = x * 10 + i;
             k--;
-            v[cif]--;
+            v[i]--;
             if (k == 0)
-                v[cif] = 0;
+                v[i] = 0;
         }
 
         if (k == 0)
             ok = 0;
-        cif--;
+        i--;
     }
 }
 
@@ -41,8 +39,16 @@ void numar(int n, int k, int &x)
 int main()
 {
     int n = 0, k = 0, x = 0;
-    cin >> n >> k;
+
+    cout << "n = ";
+    cin >> n;
+
+    cout << "k = ";
+    cin >> k;
+
     numar(n, k, x);
-    cout << x << '\n';
+
+    cout << "x = " << x << '\n';
+
     return 0;
 }

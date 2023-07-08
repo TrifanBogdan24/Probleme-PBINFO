@@ -1,15 +1,14 @@
 // #1509 - NrMaxim
+
 #include <iostream>
 
 using namespace std;
 
 // SOLUTIA PBINFO INCEPE AICI
 
-int n;
-
 int nrmaxim(int n)
 {
-    int m = 0, max, q = 0, p1 = 1, e = 0;
+    int m, max, q = 0, p1 = 1, e, p2;
     m = n;
     max = m;
     
@@ -39,7 +38,12 @@ int nrmaxim(int n)
 
 int main()
 {
+    int n = 0;
+
+    cout << "n = ";
     cin >> n;
+
     cout << nrmaxim(n) << '\n';
+    
     return 0;
 }

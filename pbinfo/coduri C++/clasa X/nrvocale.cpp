@@ -3,32 +3,60 @@
 #include <cstring>
 
 using namespace std;
-
-char sir[256], voc[6] = "aeiou", rasp;
-int frecv_voc[6] = {0}, idx;
+char sir[100], q;
+int v[6] = {0}, Max = -1;
 
 int main()
 {
-    for (int i = 0; i < 6; i++)
-        frecv_voc[i] = 0;
-
-    cin.getline(sir, 256);
-
-    for (unsigned int i = 0; i < strlen(sir); i++)
+    cin.getline(sir, 255);
+    
+    for (int i = 0; i < strlen(sir); i++)
     {
         sir[i] = tolower(sir[i]);
-        
-        if (strchr(voc, sir[i]))
-            frecv_voc[strchr(voc, sir[i]) - voc]++;
+     
+        if (sir[i] == 'a')
+            v[1]++;
+        if (v[1] > Max)
+        {
+            Max = v[1];
+            q = 'a';
+        }
+
+        if (sir[i] == 'e')
+            v[2]++;
+        if (v[2] > Max)
+        {
+            Max = v[2];
+            q = 'e';
+        }
+
+        if (sir[i] == 'i')
+            v[3]++;
+        if (v[3] > Max)
+        {
+            Max = v[3];
+            q = 'i';
+        }
+
+        if (sir[i] == 'o')
+            v[4]++;
+        if (v[4] > Max)
+        {
+            Max = v[4];
+            q = 'o';
+        }
+
+        if (sir[i] == 'u')
+            v[5]++;
+        if (v[5] > Max)
+        {
+            Max = v[5];
+            q = 'u';
+        }
     }
-
-    idx = 0;
-    for (int i = 0; i < 6; i++)
-        if (frecv_voc[i] > frecv_voc[idx])
-            idx = i;
-
-    rasp = toupper(voc[idx]);
-    cout << rasp << '\n';
-
+    
+    q = toupper(q);
+    cout << q << '\n';
+    
     return 0;
 }

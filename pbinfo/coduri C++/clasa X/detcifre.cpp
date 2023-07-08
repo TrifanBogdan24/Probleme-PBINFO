@@ -1,4 +1,5 @@
 // #905 - DetCifre
+
 #include <iostream>
 
 using namespace std;
@@ -8,6 +9,7 @@ using namespace std;
 void detcifre(int n, int &p, int &u)
 {
     u = n % 10;
+    
     while (n > 9)
         n = n / 10;
     p = n;
@@ -17,13 +19,15 @@ void detcifre(int n, int &p, int &u)
 
 int main()
 {
-    int n = 0, prima = 0, ult = 0;
+    int n = 0, prima, ult;
+
     cout << "n = ";
     cin >> n;
+
     detcifre(n, prima, ult);
 
-    cout << "Prima cifra = " << prima << '\n';
-    cout << "Ultima cifra = " << ult << '\n';
+    cout << "Prima cifra a lui " << n << " = " << prima << '\n';
+    cout << "Ultima cifra a lui " << n << " = " << ult << '\n';
 
     return 0;
 }

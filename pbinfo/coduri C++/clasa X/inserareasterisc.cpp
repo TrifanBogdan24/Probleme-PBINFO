@@ -1,35 +1,37 @@
 // #85 - InserareAsterisc
+
 #include <iostream>
 #include <cstring>
 
 using namespace std;
 
-bool OK = 1;
-char sir[101], v[6] = "aeiou", *p;
+int nr, ok, OK = 1;
+char a[255], v[25] = "aeiou", *p, q;
 
 int main()
 {
-    cin.getline(sir, 101);
+    cin.getline(a, 255);
 
-    for (unsigned int i = 0; i < strlen(sir); i++)
+    p = strchr(v, q);
+
+    for (int i = 0; i < strlen(a); i++)
     {
-        p = strchr(v, sir[i]);
-    
+        p = strchr(v, a[i]);
         if (p != 0)
         {
-            for (unsigned int j = strlen(sir) + 1; j > i; j--)
-                sir[j] = sir[j - 1];
-            sir[i + 1] = '*';
+            for (int j = strlen(a) + 1; j > i; j--)
+                a[j] = a[j - 1];
+            a[i + 1] = '*';
             OK = 0;
         }
     }
-    
-    if (OK)
+
+    if (OK == 1)
         cout << "FARA VOCALE";
     else
     {
-        for (unsigned int i = 0; i < strlen(sir); i++)
-            cout << sir[i];
+        for (int i = 0; i < strlen(a); i++)
+            cout << a[i];
     }
 
     cout << '\n';

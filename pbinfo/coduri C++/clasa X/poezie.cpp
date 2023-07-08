@@ -5,7 +5,7 @@
 using namespace std;
 
 int n;
-char prop[257], sep[10] = ".,?!";
+char a[257], sep[10] = ".,?!";
 
 int main()
 {
@@ -14,17 +14,18 @@ int main()
     
     for (int i = 1; i <= n; i++)
     {
-        cin.getline(prop, 256);
-        
-        for (unsigned int j = 0; j < strlen(prop); j++)
+        cin.getline(a, 256);
+    
+        for (int j = 0; j < strlen(a); j++)
         {
-            if (j == strlen(prop) - 1)
-                cout << prop[j];
-            else if ((strchr(sep, prop[j])) == 0)
-                cout << prop[j];
+            if (j == strlen(a) - 1)
+                cout << a[j];
+            else if ((strchr(sep, a[j])) == 0)
+                cout << a[j];
         }
 
         cout << '\n';
     }
+
     return 0;
 }

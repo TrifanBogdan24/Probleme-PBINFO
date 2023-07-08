@@ -1,4 +1,5 @@
 // #21 - Suma cifrelor
+
 #include <iostream>
 
 using namespace std;
@@ -19,9 +20,13 @@ void sum_cif(int n, int &s)
 
 int main()
 {
-    int n = 0, cifs = 0;
+    int n = 0, s = 0;
+
+    cout << "n = ";
     cin >> n;
-    sum_cif(n, cifs);
-    cout << "Suma cifrelor = " << cifs << '\n';
+
+    sum_cif(n, s);
+
+    cout << "Suma cifrelor lui " << n << " = " << s << '\n';
     return 0;
 }

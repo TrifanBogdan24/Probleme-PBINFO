@@ -1,4 +1,5 @@
 // #2838 - NrPrime2
+
 #include <iostream>
 
 using namespace std;
@@ -7,20 +8,20 @@ using namespace std;
 
 int NrPrime(int n)
 {
-    int nr = 0, q = 0;
-
+    int nr = 0, q;
+    
     while (n != 0)
     {
         q = n % 10;
-
+    
         if (q == 2 || q == 3)
             nr++;
         else if (q == 5 || q == 7)
             nr++;
-
+    
         n = n / 10;
     }
-
+    
     return nr;
 }
 
@@ -29,7 +30,10 @@ int NrPrime(int n)
 int main()
 {
     int n = 0;
+
+    cout << "n = ";
     cin >> n;
     cout << NrPrime(n) << '\n';
+
     return 0;
 }

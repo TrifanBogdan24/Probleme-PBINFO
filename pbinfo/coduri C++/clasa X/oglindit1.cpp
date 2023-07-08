@@ -1,4 +1,5 @@
 // #23 - Oglindit1
+
 #include <iostream>
 
 using namespace std;
@@ -20,8 +21,13 @@ void oglindit(int n, int &inv)
 int main()
 {
     int n = 0, inv = 0;
-    cout << "n = "; cin >> n;
+
+    cout << "n = ";
+    cin >> n;
+
     oglindit(n, inv);
-    cout << "inv = " << inv << '\n';
+
+    cout << "oglinditul lui " << n << " = " << inv << '\n';
+
     return 0;
 }

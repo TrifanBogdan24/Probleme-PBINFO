@@ -1,34 +1,34 @@
-// #2678 - FormNr
+// #278 - FormNr
 #include <iostream>
 #include <cstring>
 
 using namespace std;
 
+int s, nr;
+char a[250];
+
 int main()
 {
-    char sir[250];
-    int suma = 0, nr = 0;
-    unsigned int idx = 0;
+    cin.getline(a, 255);
     
-    cin.getline(sir, 255);
-    
-    while (idx < strlen(sir))
+    int i = 0;
+    while (i < strlen(a))
     {
         nr = 0;
-        if ('0' <= sir[idx] && sir[idx] <= '9')
+        if ('0' <= a[i] && a[i] <= '9')
         {
-            while ('0' <= sir[idx] && sir[idx] <= '9')
+            while ('0' <= a[i] && a[i] <= '9')
             {
-                nr = nr * 10 + sir[idx] - '0';
-                idx++;
+                nr = nr * 10 + a[i] - '0';
+                i++;
             }
         }
         else
-            idx++;
-        suma = suma + nr;
+            i++;
+        s = s + nr;
     }
     
-    cout << suma << '\n';
+    cout << s << '\n';
 
     return 0;
 }
